@@ -1,3 +1,6 @@
+![Power_BI_Projects/HR-Analytics_Dashboard/HR-Analytics_Dashboard](HR_Analytics.jpg)
+
+
 # 🧑‍💻 HR Analytics Dashboard Using Power BI
 
 ## 🚀 Project Overview
