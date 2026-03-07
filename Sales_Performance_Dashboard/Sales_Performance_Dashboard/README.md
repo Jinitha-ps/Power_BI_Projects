@@ -1,4 +1,4 @@
-![Power_BI_Projects/Sales_Performance_Dashboard/Sales_Performance_Dashboard](Sales_Performance_Dashboard.jpg)
+![Power_BI_Projects/Sales_Performance_Dashboard/Sales_Performance_Dashboard /](Sales_Performance_Dashboard.jpg)
 
 
 
