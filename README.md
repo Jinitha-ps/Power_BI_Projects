@@ -27,4 +27,14 @@ The projects showcase end-to-end dashboard development workflows, including data
 
 # **🛠️ Technologies Used**
 
-📊 Power BI,   🔄 Power Query,   📐 DAX (Data Analysis Expressions),   🧩 Data Modeling,   📈 Data Visualization,   📂 Excel / CSV / SQL  
+📊 Power BI — Business intelligence tool used for creating interactive dashboards and reports
+
+🔄 Power Query — Data transformation and data cleaning tool
+
+📐 DAX (Data Analysis Expressions) — Used for calculations, measures, and data analysis
+
+🧩 Data Modeling — Building relationships between tables for efficient analysis
+
+📈 Data Visualization — Creating charts, graphs, and dashboards to present insights
+
+📂 Excel / CSV / SQL — Data sources used for importing and analyzing datasets  
