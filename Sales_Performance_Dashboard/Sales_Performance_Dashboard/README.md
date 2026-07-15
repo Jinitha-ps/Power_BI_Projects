@@ -1,6 +1,6 @@
 # 🚀 Sales Performance Dashboard | Power BI
 
-![Sales_Performance_Dashboard](Sales Performance Dashboard.jpg)
+! [Sales_Performance_Dashboard](Sales Performance Dashboard.jpg)
 
 This project demonstrates an interactive Sales Performance Dashboard built using Power BI to analyze sales data across customers, products, channels, and regions.
 
