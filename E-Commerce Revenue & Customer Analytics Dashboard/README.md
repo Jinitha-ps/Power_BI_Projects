@@ -1,5 +1,8 @@
 # E-Commerce Sales & Customer Analytics Dashboard
 
+## Application Preview
+
+![E-Commerce Revenue & Customer Analytics Dashboard](Dashboard_Screenshot.png)
 ## Project Overview
 
 This project analyzes e-commerce sales data to generate business insights using an interactive dashboard. Data cleaning and preprocessing were performed using Python, followed by data analysis in SQL and visualization in Power BI.
